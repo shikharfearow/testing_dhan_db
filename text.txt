@@ -1,0 +1,4 @@
+                <span class="symbol">{stock['Security_ID']}</span><br>
+                <span class="price">VOLUME: ${stock['Volume']}</span><br>
+                <span class="price">LTP: ${stock['LTP']}</span><br>
+                <span class="{change_class}">Change: {stock['VolumeChaange']}</span>
