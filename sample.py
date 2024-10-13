@@ -6,8 +6,7 @@ from dash import generate_html
 
 # Add your Dhan Client ID and Access Token
 client_id = "1100713286"
-access_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzI2NTk3NTI4LCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMDcxMzI4NiJ9.YdwfNfZykMwPendNccC8TUdN7sN92eB_D21_hEkyhwIduacU8d4PJUB5lCaHshDPihcFKJJk37fcB3K2Fg-kbg"
-
+access_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzMxNDM0NTk5LCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMDcxMzI4NiJ9.POXymt9SI1wr94rCqpOm1pDmJ0cJp5FMVHx0L01eBSDs_-I3ZrB40RB2bR97bmaJcM1OC2vpRE_8ywNV3ahsNg"
 # Structure for subscribing is ("exchange_segment","security_id")
 
 # Maximum 100 instruments can be subscribed, then use 'subscribe_symbols' function 
